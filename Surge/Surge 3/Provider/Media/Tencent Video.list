@@ -4,3 +4,12 @@ DOMAIN,video.qq.com
 DOMAIN,vip.video.qq.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN,webrtcice.video.qq.com
+IP-CIDR,49.7.31.130/22,no-resolve
+IP-CIDR,116.211.227.24/22,no-resolve
+IP-CIDR,116.211.227.36/22,no-resolve
+IP-CIDR,116.211.227.23/22,no-resolve
+IP-CIDR,116.211.227.17/22,no-resolve
+IP-CIDR,116.211.227.35/22,no-resolve
+IP-CIDR,180.163.249.63/22,no-resolve
+IP-CIDR,36.99.30.173/22,no-resolve
