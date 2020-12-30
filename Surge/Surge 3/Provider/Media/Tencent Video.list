@@ -1,2 +1,6 @@
 # > Tencent Video
 DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN,video.qq.com
+DOMAIN,vip.video.qq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,v.smtcdns.com
