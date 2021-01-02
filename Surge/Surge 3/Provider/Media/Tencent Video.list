@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,yjzbcloud.com
 DOMAIN,yjzbcloud.com
 DOMAIN-SUFFIX,yjzb.com
 DOMAIN-KEYWORD,yjzb
+DOMAIN-SUFFIX,tv.qq.com
+DOMAIN,tv.qq.com
+DOMAIN-KEYWORD,qq
 IP-CIDR,49.7.31.130/22,no-resolve
 IP-CIDR,116.211.227.24/22,no-resolve
 IP-CIDR,116.211.227.36/22,no-resolve
