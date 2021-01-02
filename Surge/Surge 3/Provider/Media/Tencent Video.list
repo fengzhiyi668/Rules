@@ -21,6 +21,15 @@ DOMAIN-KEYWORD,yjzb
 DOMAIN-SUFFIX,tv.qq.com
 DOMAIN,tv.qq.com
 DOMAIN-KEYWORD,qq
+DOMAIN-SUFFIX,aka.ms
+DOMAIN,aka.ms
+DOMAIN-KEYWORD,aka
+DOMAIN-SUFFIX,api-ipv4.ip.sb
+DOMAIN,api-ipv4.ip.sb
+DOMAIN-KEYWORD,ip.sb
+DOMAIN-SUFFIX,filters.adtidy.org
+DOMAIN,filters.adtidy.org
+DOMAIN-KEYWORD,adtidy
 IP-CIDR,49.7.31.130/22,no-resolve
 IP-CIDR,116.211.227.24/22,no-resolve
 IP-CIDR,116.211.227.36/22,no-resolve
@@ -29,3 +38,6 @@ IP-CIDR,116.211.227.17/22,no-resolve
 IP-CIDR,116.211.227.35/22,no-resolve
 IP-CIDR,180.163.249.63/22,no-resolve
 IP-CIDR,36.99.30.173/22,no-resolve
+IP-CIDR,203.205.253.150/22,no-resolve
+IP-CIDR,203.205.219.52/22,no-resolve
+IP-CIDR,203.205.255.171/22,no-resolve
